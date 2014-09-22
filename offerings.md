@@ -9,7 +9,7 @@
 * General road map of what you plan to do, and where you plan to take the company.
 * Using an NDA as an excuse to not give any information on what the job entails is a quick way to piss off the group.
 * What do *you* bring to the table?
-  * *Offerings backed by marketing research, confirmation that there is a market, significant mockup work, etc. are more likely to enjoy a posiitve response.*
+  * *Offerings backed by marketing research, confirmation that there is a market, significant mockup work, etc. are more likely to enjoy a positive response.*
 
 **2 - Payment**
 * Equity, hourly, weekly, monthly, contract, it needs to be *something*.
