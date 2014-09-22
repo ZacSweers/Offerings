@@ -1,9 +1,9 @@
 ### Offering a job in the UTCS group? Look at these guidelines before you post. 
 
-*This is to save you from trolls and get a good response from the community, as we deal with this shit all the time.*
+*This is to save you from trolls and get a good response from the community, as we deal with this all the time.*
 
 **1 - Information about the company/idea**
-* You're not working for the FBI, you're not a Winklevoss brother, and your idea probably isn't worth stealing.
+* You're not working for the FBI, you're not a Winklevoss brother, and no one's looking to steal your idea.
 * Information is valuable. We're not code monkeys, meaning we don't work on just anything. It has to interest us.
 * Where does your company currently stand? Do you have anything done?
 * General road map of what you plan to do, and where you plan to take the company.
@@ -13,7 +13,7 @@
 
 **2 - Payment**
 * Equity, hourly, weekly, monthly, contract, it needs to be *something*.
-* Not mentioning payment or expecting unpaid work without a very compelling reason means you don't know what you're asking.
+* Not mentioning payment or expecting unpaid work without a very compelling reason usually implies you don't know what you're asking.
 * Developers are paid well, and for good reason. Be aware of this, and be aware that *we* are aware of this.
 
 **3 - Requirements**
@@ -26,8 +26,7 @@
 * Be genuine, we don't like marketers.
 
 **5 - Realism**
-* Your idea is most definitely not the next big thing.
-* You're probably not going to be a billionare.
+* While enthusiasm and ambition are appreciated, please ensure it's not at the expense of vaibility.
 * One person is often not enough.
 * It will not get done in a month.
 * Apps/websites are not "one-time" things where you can have it made and it's good for life. There will be bugs, there will be updates, new OS firmwares, new features, enhancements, etc.
@@ -40,7 +39,8 @@
 * Spew buzzwords. Everyone hates them, and it just tells us that you're filling space because you have no idea what you're talking about
 * Pander. We pander to ourselves just fine.
 
-**7 - Know what all the following terms are. They might not all be relevant to your idea, but understanding them/what they're for would establish a good baseline.**
+**7 - Familiarity with a good number of the following terms. They might not all be relevant to your idea, but understanding them/what they're for would establish a good baseline.**
+*Specifically, the reason they're important to know is because chances are any interested developer is going to ask you questions regarding them.*
 * Java
 * Objective-C
 * Python
