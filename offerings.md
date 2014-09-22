@@ -3,15 +3,15 @@
 *This is to save you from public shaming and get a good response from the community, as we deal with this shit all the time.*
 
 **1 - Information about the company/idea**
-* You're not working for the FBI, you're not a Winklevoss brother, your idea probably isn't worth stealing.
+* You're not working for the FBI, you're not a Winklevoss brother, and your idea probably isn't worth stealing.
 * Information is valuable. We're not code monkeys, meaning we don't work on just anything. It has to interest us.
 * Where does your company currently stand? Do you have anything done?
-* General road map of what you plan to do.
+* General road map of what you plan to do, and where you plan to take the company.
 * Waving an NDA in our faces as an excuse not to give any information on what the job entails is a quick way to piss off the whole group.
 
 **2 - Payment**
 * Equity, hourly, weekly, monthly, contract, it needs to be *something*.
-* Not mentioning payment == free == not understanding what you're asking == no dice.
+* Not mentioning payment or expecting unpaid work without a very compelling reason means you don't know what you're asking.
 * Developers get paid good money, and for good reason. Be aware of this, and be aware that *we* are aware of this.
 
 **3 - Requirements**
@@ -31,18 +31,19 @@
 * Apps/websites are not "one-time" things where you can have it made and it's good for life. There will be bugs, there will be updates, new OS firmwares, new features, enhancements, etc.
 
 **6 - DON'T**
-* If your post doesn't look too different from the following, please consider being less cliché.
+* If your post looks like the following, please consider being less cliché.
   * I need a website (and don't know what that means)!
   * I have an idea, someone build it for me (because I refuse to learn how)!
   * Need someone (don't really care) to make an (nonspecific) app for my (shitty/boring) company.
-* Buzzwords. Everyone hates them, and it just tells us that you're filling space because you have no idea what you're talking about
-* Pandering. We pander to ourselves just fine.
+* Spew buzzwords. Everyone hates them, and it just tells us that you're filling space because you have no idea what you're talking about
+* Pander. We pander to ourselves just fine.
 
 **7 - Know what all the following terms are. They might not all be relevant to your idea, but understanding them/what they're for would establish a good baseline.**
 * Java
-* Objective C
+* Objective-C
 * Python
 * Backend
+* Frontend
 * Github
 * Git
 * JSON
@@ -59,4 +60,4 @@
 
 ### I know this seems like a lot, but it's really nothing more than what we would expect to see in a professional job offering.
 
-Not only will meeting this criteria help bolster your chances of landing a good developer, but it will also reflect well on you and the company within the group. The tech world is small, and UTCS students often go on to very important companies. Maintaining respect and good rep with us can go a long way.
+Not only will these criteria improve your chances of landing a good developer, they will reflect well on you and the company to the group. The tech world is small, and UTCS students often go on to very important companies. Maintaining respect and good rep with us can go a long way.
