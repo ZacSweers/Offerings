@@ -7,7 +7,7 @@
 * Information is valuable. We're not code monkeys, meaning we don't work on just anything. It has to interest us.
 * Where does your company currently stand? Do you have anything done?
 * General road map of what you plan to do, and where you plan to take the company.
-* Waving an NDA in our faces as an excuse not to give any information on what the job entails is a quick way to piss off the whole group.
+* Using an NDA as an excuse to not give any information on what the job entails is a quick way to piss off the group.
 
 **2 - Payment**
 * Equity, hourly, weekly, monthly, contract, it needs to be *something*.
