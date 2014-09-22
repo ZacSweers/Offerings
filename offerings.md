@@ -1,6 +1,6 @@
-### Offering a job in the UTCS group? Go through this checklist before you post. 
+### Offering a job in the UTCS group? Look at these guidelines before you post. 
 
-*This is to save you from public shaming and get a good response from the community, as we deal with this shit all the time.*
+*This is to save you from trolls and get a good response from the community, as we deal with this shit all the time.*
 
 **1 - Information about the company/idea**
 * You're not working for the FBI, you're not a Winklevoss brother, and your idea probably isn't worth stealing.
@@ -9,12 +9,12 @@
 * General road map of what you plan to do, and where you plan to take the company.
 * Using an NDA as an excuse to not give any information on what the job entails is a quick way to piss off the group.
 * What do *you* bring to the table?
-  * *I'll listen a LOT more closely to someone with an idea who's put a lot of thought into the marketing and/or target market and/or getting confirmation that there are people that want the product, etc.*
+  * *Offerings backed by marketing research, confirmation that there is a market, significant mockup work, etc. are more likely to enjoy a posiitve response.*
 
 **2 - Payment**
 * Equity, hourly, weekly, monthly, contract, it needs to be *something*.
 * Not mentioning payment or expecting unpaid work without a very compelling reason means you don't know what you're asking.
-* Developers get paid good money, and for good reason. Be aware of this, and be aware that *we* are aware of this.
+* Developers are paid well, and for good reason. Be aware of this, and be aware that *we* are aware of this.
 
 **3 - Requirements**
 * You *have* to understand what you're asking for. We can tell if you don't, and it reflects poorly on you.
@@ -48,17 +48,13 @@
 * Frontend
 * Github
 * Git
-* JSON
 * Web framework
-* Bootstrap
 * What language(s) Android uses
 * What language(s) iOS uses
 * What language(s) web dev uses
-* Dennis Ritchie
 * What `DB` stands for
-* What kinds of `DB`s there are
 * Library
-* Apache/MIT License; GPL
+* GPL
 
 ### I know this seems like a lot, but it's really nothing more than what we would expect to see in a professional job offering.
 
