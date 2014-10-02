@@ -26,7 +26,7 @@
 * Be genuine, we don't like marketers.
 
 **5 - Realism**
-* While enthusiasm and ambition are appreciated, please ensure it's not at the expense of vaibility.
+* While enthusiasm and ambition are appreciated, please ensure it's not at the expense of product vaibility.
 * One person is often not enough.
 * It will not get done in a month.
 * Apps/websites are not "one-time" things where you can have it made and it's good for life. There will be bugs, there will be updates, new OS firmwares, new features, enhancements, etc.
@@ -36,8 +36,8 @@
   * I need a website (and don't know what that means)!
   * I have an idea, someone build it for me (because I refuse to learn how)!
   * Need someone (don't really care) to make an (nonspecific) app for my (shitty/boring) company.
-* Spew buzzwords. Everyone hates them, and it just tells us that you're filling space because you have no idea what you're talking about
-* Pander. We pander to ourselves just fine.
+* Buzzwords. Everyone hates them, and it just tells us that you're filling space because you have no idea what you're talking about
+* Pander.
 
 **7 - Familiarity with a good number of the following terms. They might not all be relevant to your idea, but understanding them/what they're for would establish a good baseline.**
 *Specifically, the reason they're important to know is because chances are any interested developer is going to ask you questions regarding them.*
@@ -57,5 +57,3 @@
 * GPL
 
 ### I know this seems like a lot, but it's really nothing more than what we would expect to see in a professional job offering.
-
-Not only will these criteria improve your chances of landing a good developer, they will reflect well on you and the company to the group. The tech world is small, and UTCS students often go on to very important companies. Maintaining respect and good rep with us can go a long way.
