@@ -2,7 +2,7 @@
 
 ### Offering a job in the UTCS group? Please consider these suggested guidelines before you post. 
 
-*This is to save you from trolls and get a good response from the community, as we deal with this all the time.*
+*This is to save you from trolls and help you get a good response from the community, as we deal with this all the time.*
 
 **1 - Information about the company/idea**
 * IP is obviously important, but please don't be overly secretive about your product. No one's looking to steal your idea.
@@ -28,7 +28,7 @@
 * Be genuine, we don't like marketers.
 
 **5 - Realism**
-* While enthusiasm and ambition are appreciated, please ensure it's not at the expense of product vaibility.
+* While enthusiasm and ambition are appreciated, please ensure it's not at the expense of product viability.
 * One person is often not enough.
 * It will not get done in a month.
 * Apps/websites are not "one-time" things where you can have it made and it's good for life. There will be bugs, there will be updates, new OS firmwares, new features, enhancements, etc.
