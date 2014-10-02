@@ -3,7 +3,7 @@
 *This is to save you from trolls and get a good response from the community, as we deal with this all the time.*
 
 **1 - Information about the company/idea**
-* You're not working for the FBI, you're not a Winklevoss brother, and no one's looking to steal your idea.
+* IP is obviously important, but please don't be overly secretive about your product. No one's looking to steal your idea.
 * Information is valuable. We're not code monkeys, meaning we don't work on just anything. It has to interest us.
 * Where does your company currently stand? Do you have anything done?
 * General road map of what you plan to do, and where you plan to take the company.
@@ -21,7 +21,7 @@
 * What languages/experience should the person have? I don't just mean "iOS/Android/Web", be specific. If you don't know this, then you need to research more first.
 
 **4 - Honesty**
-* Don't beat around the bush (buzzwords, pandering, etc).
+* Don't beat around the bush.
 * If you're genuinely not sure you understand what you're asking for, by all means *say that* and ask the group for feedback on what you should expect.
 * Be genuine, we don't like marketers.
 
@@ -32,12 +32,12 @@
 * Apps/websites are not "one-time" things where you can have it made and it's good for life. There will be bugs, there will be updates, new OS firmwares, new features, enhancements, etc.
 
 **6 - DON'T**
-* If your post looks like the following, please consider being less cliché.
+* The following are some common examples of cliché posts we get, please try to avoid sounding like them.
   * I need a website (and don't know what that means)!
   * I have an idea, someone build it for me (because I refuse to learn how)!
   * Need someone (don't really care) to make an (nonspecific) app for my (shitty/boring) company.
 * Buzzwords. Everyone hates them, and it just tells us that you're filling space because you have no idea what you're talking about
-* Pander.
+* Pandering.
 
 **7 - Familiarity with a good number of the following terms. They might not all be relevant to your idea, but understanding them/what they're for would establish a good baseline.**
 *Specifically, the reason they're important to know is because chances are any interested developer is going to ask you questions regarding them.*
