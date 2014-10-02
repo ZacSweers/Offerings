@@ -7,7 +7,7 @@
 * Information is valuable. We're not code monkeys, meaning we don't work on just anything. It has to interest us.
 * Where does your company currently stand? Do you have anything done?
 * General road map of what you plan to do, and where you plan to take the company.
-* Using an NDA as an excuse to not give any information on what the job entails is a quick way to piss off the group.
+* Using an NDA as an excuse to not give any information on what the job entails is a quick way to anger the group.
 * What do *you* bring to the table?
   * *Offerings backed by marketing research, confirmation that there is a market, significant mockup work, etc. are more likely to enjoy a positive response.*
 
