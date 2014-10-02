@@ -1,6 +1,6 @@
 > This is specifically if you're offering a job. If you're just, say, looking for help with something for a couple hours, feel free to post. Just make sure you're clear about the scope :)
 
-### Offering a job in the UTCS group? Look at these guidelines before you post. 
+### Offering a job in the UTCS group? Please consider these suggested guidelines before you post. 
 
 *This is to save you from trolls and get a good response from the community, as we deal with this all the time.*
 
