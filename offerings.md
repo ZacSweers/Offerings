@@ -1,11 +1,11 @@
-> This is specifically if you're offering a job. If you're just, say, looking for help with something for a couple hours, feel free to post. Just make sure you're clear about the scope :)
+> This is specifically if you're offering a job. If you're just, say, looking for help with something for a couple hours, feel free to post. Just make sure you're clear about the scope :) We can generally resolve issues online - no need for a coffee meeting. If you're worried about publicizing your idea, see #1 below.
 
 ### Offering a job in the UTCS group? Please consider these suggested guidelines before you post. 
-
+ 
 *This is to save you from trolls and help you get a good response from the community, as we deal with this all the time.*
 
 **1 - Information about the company/idea**
-* IP is obviously important, but please don't be overly secretive about your product. No one's looking to steal your idea.
+* IP is obviously important, but please don't be overly secretive about your product. No one is looking to steal your idea.
 * Information is valuable. We're not code monkeys, meaning we don't work on just anything. It has to interest us.
 * Where does your company currently stand? Do you have anything done?
 * General road map of what you plan to do, and where you plan to take the company.
@@ -20,7 +20,7 @@
 
 **3 - Requirements**
 * You *have* to understand what you're asking for. We can tell if you don't, and it reflects poorly on you.
-* What languages/experience should the person have? I don't just mean "iOS/Android/Web", be specific. If you don't know this, then you need to research more first.
+* What languages/experience should the person have? I don't just mean "iOS/Android/Web." Be specific. If you don't know this, then you need to research more first.
 
 **4 - Honesty**
 * Don't beat around the bush.
@@ -31,13 +31,13 @@
 * While enthusiasm and ambition are appreciated, please ensure it's not at the expense of product viability.
 * One person is often not enough.
 * It will not get done in a month.
-* Apps/websites are not "one-time" things where you can have it made and it's good for life. There will be bugs, there will be updates, new OS firmwares, new features, enhancements, etc.
+* Apps/websites are not "one-time" things where you can have it made and it's good for life. There will be bugs; there will be updates, new OS firmwares, new features, enhancements, etc.
 
 **6 - DON'T**
 * The following are some common examples of cliché posts we get, please try to avoid sounding like them.
   * I need a website (and don't know what that means)!
   * I have an idea, someone build it for me (because I refuse to learn how)!
-  * Need someone (don't really care) to make an (nonspecific) app for my (shitty/boring) company.
+  * I need someone (and don't really care who) to make an (nonspecific) app for my (shitty/boring) company.
 * Buzzwords. Everyone hates them, and it just tells us that you're filling space because you have no idea what you're talking about
 * Pandering.
 
